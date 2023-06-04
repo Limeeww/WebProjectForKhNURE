@@ -1,0 +1,27 @@
+body{
+    background-color: #ccc4b6 !important;
+}
+.body_edit{
+    box-shadow: 0 4px 100px 5px rgba(0, 0, 0, 0.25);
+    background-color: rgba(217, 217, 217, 0.02);
+    padding: 0 !important;
+    background-color: rgb(255, 255, 255);
+}
+
+.paddingEdit{
+}
+
+.carousel .carousel-item {
+    height: 400px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 400px;
+  }
+.text_edit{
+    align-self: center;
+}
